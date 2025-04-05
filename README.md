@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokeshwari Varshney</h1>
 <h3 align="center">👨‍💻 AI Enthusiast | 🎓 CSE'26 | 🚀 Exploring Intelligent Systems & Smart Technologies</h3>
 
-<img align="right" alt="Coding Her Way Into Future Tech 🚀" width="400" height="300" src="https://github.com/LokeshwariVarshney29/LokeshwariVarshney29/blob/main/Image.gif?raw=true">
+<img align="right" alt="Coding Her Way Into Future Tech 🚀" width="400" height="200" src="https://github.com/LokeshwariVarshney29/LokeshwariVarshney29/blob/main/Image.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshwarivarshney29&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshwarivarshney29" /> </p>
 
